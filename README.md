@@ -1,4 +1,5 @@
-# Instagram Bio Updater  
+# Instagram Bio Updater  [![](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
+
 
 This repository contains a Python script that automates the process of updating the bio on an Instagram account. The script uses carefully crafted API requests to avoid triggering Instagram's anti-bot mechanisms, ensuring smooth and consistent functionality. The bio is updated daily with one of over 10,000 unique quotes, each paired with a relevant emoji to enhance its appeal and engagement.  
 
