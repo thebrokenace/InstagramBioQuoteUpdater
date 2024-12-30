@@ -22,5 +22,4 @@ This repository contains a Python script that automates the process of updating 
 ### Installation  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/thebrokenace/instagram-bio-updater.git  
-   cd instagram-bio-updater  
+   git clone [https://github.com/thebrokenace/instagram-bio-updater.git  ](https://github.com/thebrokenace/InstagramBioQuoteUpdater.git)
