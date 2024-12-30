@@ -1,0 +1,1 @@
+This is a simple Instagram API usage that I wrote to automate the updating of the Bio in an Instagram account. It uses specially crafted requests as to not trigger "bot actions" on Instagram, and updates from over 10,000 quotes, daily, including a relevant emoji.
